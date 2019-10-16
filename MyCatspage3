@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Contact</title>
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/Contact.css">
+</head>
+
+<body>
+    <div class="container">
+            <div id="scroll-up">
+                    <a href="Contact.html"><img src="../img/img2/scrollup.jpg" alt="" width="50px" height="50px"></a>
+                </div>
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="Mycats.html" target="_blank">Top</a></li>
+                    <li><a href="About.html" target="_blank">About</a></li>
+                    <li><a href="Contact.html" target="_blank">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+                <div class="title">
+                        <img src="../img/img2/Nikukyu.jpg" alt="Nikukyu">
+                        <h1>猫・犬を保護しよう！</h1>
+                        <img src="../img/img2/Nikukyu.jpg" alt="Nikukyu">
+                    </div>
+            <section class="description-container">
+                    <p>これまでの紹介の通り我が家の猫たちはみんな保護猫です。<br>
+                        以前に比べ殺処分が少なくなりましたが、未だにたくさんの猫・犬の殺処分が行われています。<a href="https://www.env.go.jp/nature/dobutsu/aigo/2_data/arikata/h16_05/mat04.pdf" target="_blank">詳細へ</a><br>
+                        そんな罪のない命を救うため、保護または保護団体への寄付をお願いいたします。<br>
+                        下記、いくつか保護団体のサイトをご紹介したいと思います。
+                    </p>
+
+                    <ol>
+                            <blockquote cite="https://kifunavi.jp/nonprofits/cat/">
+                        <li>野良猫に不妊手術を施し、地域で見守る→<cite><a href="https://www.doubutukikin.or.jp/activity/campaign/campaign-latest/" target="_blank">どうぶつ基金</a></cite></li><br>
+
+                        <li>犬や猫の「殺処分ゼロ」をめざす→<cite><a href="https://peace-wanko.jp/activity.html?utm_source=kifunavi_cat&utm_medium=gooddo&utm_campaign=wsupporter_gooddo" target="_blank">ピースワンコ・ジャパン</a></cite></li><br>
+
+                        <li>捨てられた犬や猫など、「終生飼養」と「譲渡活動」→<cite><a href="https://minashigo.jp/" target="_blank">犬猫みなしご救援隊</a></cite></li><br>
+
+                        </blockquote>
+                    </ol>
+            </section>
+
+            <div class="title">
+            <img src="../img/img2/Nikukyu.jpg" alt="Nikukyu">
+            <h1>お問い合わせ・ご質問など</h1>
+            <img src="../img/img2/Nikukyu.jpg" alt="Nikukyu">
+            </div>
+
+            <form action="" method="post">
+                <input type="text" name="name" value="" placeholder="お名前" class="formstyle">
+                <input type="email" name="email" placeholder="メールアドレス" class="formstyle" required>
+                <textarea cols="50" rows="10" placeholder="お問い合わせ内容" required></textarea>
+                <input type="submit" value="送信" class="submit">
+            </form>
+    
+
+        <footer>
+            <div class="footer-center">
+                <p><small><strong>&copy;</strong></small>Copyright All Reserved Written by 
+                    <strong style="color: royalblue; font-style: italic;">Sanae Kawasaka</strong> -Oct 2019--</p>
+            </div>
+            <div class="footer-right">
+                <img src="../img/img2/Nikukyu.jpg" alt="Nikukyu">
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>
